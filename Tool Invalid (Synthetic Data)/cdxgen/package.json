@@ -11,6 +11,6 @@
   "devDependencies": {
     "@cyclonedx/cdxgen": "12.8.5",
     "typescript": "5.9.3",
-    "@types/node": "26.6.3"
+    "@types/node": "^24"
   }
 }
