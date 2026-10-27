@@ -1,9 +1,13 @@
 {
   "compilerOptions": {
-    "target": "ES2022",
+    "target": "ES2019",
     "module": "commonjs",
     "strict": true,
-    "outDir": "build"
+    "outDir": "build",
+    "skipLibCheck": true
   },
-  "include": ["src", "tools"]
+  "include": [
+    "src",
+    "tools"
+  ]
 }
