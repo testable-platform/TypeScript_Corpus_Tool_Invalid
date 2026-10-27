@@ -3,7 +3,10 @@
     "target": "ES2022",
     "module": "commonjs",
     "strict": true,
-    "outDir": "build"
+    "outDir": "build",
+    "skipLibCheck": true
   },
-  "include": ["src"]
+  "include": [
+    "src"
+  ]
 }
