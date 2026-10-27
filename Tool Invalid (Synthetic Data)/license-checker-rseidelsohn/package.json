@@ -9,8 +9,8 @@
     "vendor-mit-ok": "file:./vendor/vendor-mit-ok"
   },
   "devDependencies": {
-    "license-checker-rseidelsohn": "5.0.1",
+    "license-checker-rseidelsohn": "4.4.2",
     "typescript": "5.9.3",
-    "@types/node": "26.6.3"
+    "@types/node": "^20"
   }
 }
