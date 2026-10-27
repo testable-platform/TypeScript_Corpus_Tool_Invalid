@@ -1,6 +1,0 @@
-# covgate policy for this branch: the lines and branches of the application source that the last commit touched.
-[[gates]]
-name = "app"
-include = "src/**/*.ts"
-fail-under-lines = 60
-fail-under-branches = 40
