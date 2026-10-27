@@ -9,8 +9,8 @@
     "vendor-mit-ok": "file:./vendor/vendor-mit-ok"
   },
   "devDependencies": {
-    "@cyclonedx/cdxgen": "12.8.5",
-    "typescript": "5.9.3",
-    "@types/node": "26.6.3"
+    "@cyclonedx/cdxgen": "8.6.3",
+    "typescript": "5.0.4",
+    "@types/node": "^12"
   }
 }
