@@ -7,6 +7,6 @@
     "@opentelemetry/sdk-node": "0.222.0",
     "@opentelemetry/sdk-trace-node": "2.11.0",
     "typescript": "5.9.3",
-    "@types/node": "26.6.3"
+    "@types/node": "^24"
   }
 }
