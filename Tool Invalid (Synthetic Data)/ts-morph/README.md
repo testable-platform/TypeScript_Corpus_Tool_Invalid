@@ -23,8 +23,6 @@ Boundary-version methodology: 2 earliest + 1 middle + 2 latest supported Node ma
 
 | Family | Status |
 | --- | --- |
-| node12 | FINDING (project fails to type-check -- `tsc` build itself fails, rc=2; this is the intended defect, see tool note above) |
 | node14 | FINDING (project fails to type-check -- `tsc` build itself fails, rc=2; this is the intended defect, see tool note above) |
-| node20 | FINDING (project fails to type-check -- `tsc` build itself fails, rc=2; this is the intended defect, see tool note above) |
-| node24 | FINDING (project fails to type-check -- `tsc` build itself fails, rc=2; this is the intended defect, see tool note above) |
-| node26 | FINDING (project fails to type-check -- `tsc` build itself fails, rc=2; this is the intended defect, see tool note above) |
+
+This repo carries only the `node14` family.
